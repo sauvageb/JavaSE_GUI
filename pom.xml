@@ -11,6 +11,7 @@
     <modules>
         <module>SharedDAO</module>
         <module>Swing</module>
+        <module>JavaFX</module>
     </modules>
 
     <properties>
